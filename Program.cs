@@ -2,7 +2,7 @@
 
 Console.WriteLine("---Super comparador de abastecimento---");
 
-Console.WriteLine("Digite o valor do Alcool: ");
+Console.WriteLine("\nDigite o valor do Alcool: ");
     decimal alcool = Convert.ToDecimal(Console.ReadLine()!);
 
 Console.WriteLine("Digite o valor da Gasolina: ");
